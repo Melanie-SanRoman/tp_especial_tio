@@ -13,13 +13,15 @@ function Calcular(id1, id2){
     switch(operador)
     {
         case "+":
-            resultado= num1 + num2
+            resultado= num1 + num2;
             break;
         case "-":
-            resultado= num1 - num2
+            resultado= num1 - num2;
             break;
         case "/":
         case "*":
+            resultado = num1 * num2; 
+            break;
             					
         default:
             break;				
