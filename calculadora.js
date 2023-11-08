@@ -19,6 +19,8 @@ function Calcular(id1, id2){
             resultado= num1 - num2;
             break;
         case "/":
+            resultado = num1 / num2;
+            break;
         case "*":
             resultado = num1 * num2; 
             break;
