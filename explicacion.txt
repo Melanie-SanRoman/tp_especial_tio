@@ -3,3 +3,5 @@ Calculadora online con metodos basicos: sumar, restar, multiplicar y dividir
 Realizada para la materia Tecnologia de la Informacion en las Organizaciones
 
 En este trabajo usamos distintos archivos con extensiones .html, .js, .css, .md, .txt
+
+Este es un trabajo integrador realizado por 4 estudiantes de todo lo visto en clase, haciendo uso de softwares como un controlador de versiones (GIT) y un separador de tareas colaborativo (TRELLO). Esto, nos ayudo a dar practica de todo lo aprendido, aclarar dudas, trabajar en equipo colaborativamente,etc.
