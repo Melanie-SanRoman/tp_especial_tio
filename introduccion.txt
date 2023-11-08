@@ -1,0 +1,5 @@
+Calculadora online con metodos basicos: sumar, restar, multiplicar y dividir
+
+Realizada para la materia Tecnologia de la Informacion en las Organizaciones
+
+En este trabajo usamos distintos archivos con extensiones .html, .js, .css, .md, .txt
