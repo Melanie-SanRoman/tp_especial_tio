@@ -1,0 +1,4 @@
+# Ignorar los archivos de extension .jpg y .png de la carpeta Images/
+
+Images/*.jpg
+Images/*.png
