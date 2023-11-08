@@ -1,6 +1,14 @@
 body{
     background-color: beige;
 }
+
 h1{
     text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+p{
+    font-family: fantasy;
+}
+
+
